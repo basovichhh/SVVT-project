@@ -1,0 +1,51 @@
+{
+    
+    "url": {
+    "glovo": "https://glovoapp.com/ba/hr/sarajevo/",
+    "glovoapp": "https://glovoapp.com/",
+    "korpa": "https://korpa.ba/"
+
+
+},
+
+"location":{
+    "address":"SCC"
+},
+
+"mails":{
+    "email":"ajanovicmustafa14@gmail.com",
+    "password":"Mustafa0810",
+    "name":"Mustafa",
+    "number":"062 123 456"
+
+},
+
+"dostavljac":
+{
+    "email":"musa@gmail.com",
+    "name":"Mustafa",
+    "number":"062 123 456"
+
+
+
+},
+"data":{
+    "email": "amirbasovic0129@gmail.com",
+    "name": "Amir",
+    "last_name": "Basovic",
+    "phone": "061588203",
+    "password": "password123__123__",
+    "message": "Najbolji sajt na svijetu.",
+    "address": "Vrbanja 1",
+    "product": "Pizza",
+    "item": "Pinsa",
+    "about_us": "O nama",
+
+    "new_name": "Mustafa",
+    "home_pageText": "Dostava na Vrbanja, 1"
+},
+
+"verification_message": {
+    "registartion_message": "Your account has been created."
+}
+}
